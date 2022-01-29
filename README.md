@@ -97,8 +97,8 @@ Check the front-end section for instructions
  - returns an array of all games
 
 **Example call:** 
-`near view $CONTRACT viewGame --accountId $NEAR_ACCOUNT`
- - 
+`near view $CONTRACT viewAllGames --accountId $NEAR_ACCOUNT`
+
 ## reactivateGame 
  - Takes ***_gameId*** as  a parameters
  - The person calling this function must be the owner 
