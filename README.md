@@ -5,7 +5,8 @@ A small game where a user can create a room by putting Near tokens into it. A se
 
 
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/c59147126c5a4b9aa8956bae77739c2f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[![asciicast](https://www.loom.com/share/c59147126c5a4b9aa8956bae77739c2f")](https://www.loom.com/share/c59147126c5a4b9aa8956bae77739c2f)
+
 
 
 # Cloning the project
