@@ -5,7 +5,7 @@ A small game where a user can create a room by putting Near tokens into it. A se
 
 
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://www.loom.com/share/c59147126c5a4b9aa8956bae77739c2f)
+[![Near Dice Demo](https://user-images.githubusercontent.com/62159014/151663684-1cd01b3e-c93b-4cfb-9ffa-531d488b78ed.gif)](https://www.loom.com/share/c59147126c5a4b9aa8956bae77739c2f)
 
 
 
